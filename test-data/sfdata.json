@@ -1,0 +1,10 @@
+{
+    "qa": {
+        "username": "manojv@salesforce.com",
+        "password": "manojSales@08"
+    },
+"staging": {
+        "username": "manojv1@salesforce.com",
+        "password": "manojSales1@08"
+    }
+}
